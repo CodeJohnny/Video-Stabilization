@@ -13,7 +13,7 @@ An ``electronic image stabilization`` method for a video with ``feature points``
 [1]周洲,陈太聪.干扰环境下基于计算机视觉的多目标动位移高精度监测方法[J].振动工程学报,2021,34(5):979-986
 
 
-<div align=center><img src="[URL](https://github.com/CodeJohnny/Video-Stabilization/assets/97861483/95cf81a8-ec71-49b0-8b91-12c513267ab1)" width="300" height="450" /></div>
+<div align=center><img src="[URL](![image](https://github.com/CodeJohnny/Video-Stabilization/assets/97861483/0756de2a-6d4c-4927-bf8f-04d9ba82010c))" width="300" height="450" /></div>
 
 <p align="center">  
 非均匀补偿稳像的技术路线
