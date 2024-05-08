@@ -8,7 +8,7 @@
 The technical route of non-uniform compensation image stabilization
 </p> 
 
-**Usage:** After obtaining the displacement time history data of any four feature points in the image relative to the first frame, MATLAB is used to run the 'Compensationfield.m' file, which can output the stabilized video and is suitable for the video shot by UAV.
+**Usage:** After obtaining the displacement time history data of any four feature points in the image relative to the first frame, you can use MATLAB to run the 'Compensationfield.m' file, which can output the stabilized video and is suitable for the video shot by UAV.
 
 **NOTE:**  This project only uploaded the codes of the last three steps of the technical route, that is, the non-uniform compensation image stabilization technology. The first step of image preprocessing can be completed by the readers yourselves, and the second and third steps of MSTC feature point tracking method can contact the author (ctjohnny@mail.scut.edu.cn), which is for personal use only, thanks!
 
