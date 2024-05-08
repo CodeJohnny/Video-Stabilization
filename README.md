@@ -8,8 +8,9 @@
 The technical route of non-uniform compensation image stabilization
 </p> 
 
+**Usage:** After obtaining the displacement time history data of any four feature points in the image relative to the first frame, MATLAB is used to run the 'Compensationfield.m' file, which can output the stabilized video and is suitable for the video shot by UAV.
 
-NOTE: This project only uploaded the codes of the last three steps of the technical route, that is, the non-uniform compensation image stabilization technology. The first step of image preprocessing can be completed by the readers yourselves, and the second and third steps of MSTC feature point tracking method can contact the author (ctjohnny@mail.scut.edu.cn), which is for personal use only, thanks!
+**NOTE:**  This project only uploaded the codes of the last three steps of the technical route, that is, the non-uniform compensation image stabilization technology. The first step of image preprocessing can be completed by the readers yourselves, and the second and third steps of MSTC feature point tracking method can contact the author (ctjohnny@mail.scut.edu.cn), which is for personal use only, thanks!
 
 **Reference：**
 
@@ -25,7 +26,11 @@ NOTE: This project only uploaded the codes of the last three steps of the techni
 非均匀补偿稳像的技术路线
 </p> 
 
-值得注意的是，本项目仅上传了技术路线的后三步的代码，也就是非均匀补偿稳像技术，第一步图像预处理可以由读者自行完成，第二步和第三步MSTC特征点跟踪方法可以联系作者（ctjohnny@mail.scut.edu.cn），仅供自用，谢谢！
+**使用：**
+在获取了图像中任意四个特征点的相对于第一帧的图像位移时程数据后，使用MATLAB运行‘Compensationfield.m’文件，即可以输出稳像后的视频，并且适用于无人机拍摄的视频。
+
+**值得注意的是，**
+本项目仅上传了技术路线的后三步的代码，也就是非均匀补偿稳像技术，第一步图像预处理可以由读者自行完成，第二步和第三步MSTC特征点跟踪方法可以联系作者（ctjohnny@mail.scut.edu.cn），仅供自用，谢谢！
 
 **参考文献：**
 
