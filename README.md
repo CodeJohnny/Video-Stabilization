@@ -1,7 +1,8 @@
 # Video-Stabilization
 **Introduction:** An ``electronic image stabilization`` method for a video with ``feature points``, which is based on non-uniform compensation using compensation fields. This method is different from traditional methods that compensate for the entire image, and instead compensates for ``each pixel in each frame of the video``, so that ``precise compensation`` can be achieved in the selected feature point region and has a certain ability to ``resist wind interference``.Through many experiments, it is proved that the method has the ``ideal image stabilization effect``。
 
-<div align=center><img src=https://github.com/CodeJohnny/Video-Stabilization/assets/97861483/0756de2a-6d4c-4927-bf8f-04d9ba82010cwidth="200" height="350" /></div>
+<div align=center><img src=https://github.com/CodeJohnny/Video-Stabilization/assets/97861483/67e3f91a-3e65-4811-bd4e-30091753c9e9width="200" height="350" /></div>
+
 
 <p align="center">  
 The technical route of non-uniform compensation image stabilization
